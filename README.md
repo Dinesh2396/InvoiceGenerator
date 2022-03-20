@@ -120,5 +120,8 @@ Product Details:
   2) insert into product(productname, amount, cess, cgst, invoice_id, quantity, sgst, id)values(?, ?, ?, ?, ?, ?, ?, ?)
   3) insert into invoice(customer_id, due_date, invoice_date, total, vendor_id, id) values(?, ?, ?, ?, ?, ?)
   4) insert into customer(address, city, clientgstin, clientname, country, state, id) values(?, ?, ?, ?, ?, ?, ?)
-
-
+  
+<img width="470" alt="Product" src="https://user-images.githubusercontent.com/101946579/159151780-b3a1d32b-50f7-4d10-a248-26ebc96e082b.PNG">
+<img width="730" alt="Vendor" src="https://user-images.githubusercontent.com/101946579/159151792-a8a0b207-745f-45d6-9634-1ba01a74085c.PNG">
+<img width="721" alt="Customer" src="https://user-images.githubusercontent.com/101946579/159151804-f5fc5139-0bb8-431d-a6bd-3e31bfde727e.PNG">
+<img width="507" alt="Invoicetable" src="https://user-images.githubusercontent.com/101946579/159151793-e240feec-69ab-4f9c-a2cd-7bebfd949281.PNG">
